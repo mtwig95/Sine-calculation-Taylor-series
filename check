@@ -1,0 +1,66 @@
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(1.000000)=0.841471
+Using math library, sin(1.000000)=0.841471
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(2.000000)=0.909297
+Using math library, sin(2.000000)=0.909297
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(5.000000)=-0.958924
+Using math library, sin(5.000000)=-0.958924
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(3.716815)=-0.544021
+Using math library, sin(3.716815)=-0.544021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): -17.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(-4.933629)=0.975626
+Using math library, sin(-4.933629)=0.975626
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): -505.8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(-3.145175)=0.003584
+Using math library, sin(-3.145175)=0.003583
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): 17.898
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(5.331629)=-0.814320
+Using math library, sin(5.331629)=-0.814320
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ -18.5555
+-18.5555: command not found
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): -18.5555
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(-5.989129)=0.289836
+Using math library, sin(-5.989129)=0.289836
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ ./my_sin
+The program calculates the value of sin(x) using Taylor series.
+Please enter a number (radian): -0.666
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using this program, sin(-0.666000)=-0.617846
+Using math library, sin(-0.666000)=-0.617846
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+user@xubuntu:~/Desktop/mmn11/my_sin$ 
